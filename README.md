@@ -30,5 +30,5 @@ git clone https://github.com/vhc-prestashop-peru/niubiz.git
 Add you parameters sent for Niubiz in form on Configure Module.
 
 ### Contributing
-- **Victor Castro** <<victor@castrocontreras.com>>
+- **Victor Castro** <<victorcastro.io@icloud.com>>
 - **Roger Pecho** <<integraciones@visanet.com.pe>>
